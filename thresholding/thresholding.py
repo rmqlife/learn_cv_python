@@ -1,3 +1,6 @@
+# reference
+# http://docs.opencv.org/3.1.0/d7/d4d/tutorial_py_thresholding.html#gsc.tab=0
+# http://www.pyimagesearch.com/2015/08/24/resolved-matplotlib-figures-not-showing-up-or-displaying/
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
